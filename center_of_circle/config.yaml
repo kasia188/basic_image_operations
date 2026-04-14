@@ -1,0 +1,17 @@
+INPUT_FOLDER: "data"
+OUTPUT_FOLDER: "results_manual"
+
+OUTPUT_FOLDER_2: "results_watershed"
+
+X_START: 0
+X_END: 40
+Y_START: 0
+Y_END: 40
+
+R1: 16
+R2: 20
+
+X1: 28
+Y1: 28
+X2: 44
+Y2: 52
